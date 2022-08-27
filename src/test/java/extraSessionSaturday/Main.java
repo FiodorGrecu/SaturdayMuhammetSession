@@ -7,6 +7,6 @@ public class Main {
         String url = "https://www.youtube.com/";
 
 
-//        WebDriver driver = ChromeDriver();
+        WebDriver driver = new ChromeDriver();
     }
 }
