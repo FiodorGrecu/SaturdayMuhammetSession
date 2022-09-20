@@ -13,6 +13,7 @@ public class Main {
         WebDriver driver = new ChromeDriver();
         driver.get(url);
 
+
         Thread.sleep(3000);
         driver.quit();
     }
